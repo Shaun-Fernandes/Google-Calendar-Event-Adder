@@ -1,0 +1,8 @@
+# Excel files
+*.xlsx
+*.pdf
+token.pickle
+credentials.json
+
+# KDE
+.directory
